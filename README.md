@@ -1,5 +1,4 @@
 # 2022-Fall-Natural-Language-Processing-and-Practice
-# 2022-Fall-Natural-Language-Processing-and-Practice
 # Natural Language Processing and Practice -- 2022 Fall
 
 Time: **Friday**
@@ -8,7 +7,8 @@ Venue:
 
 Welcome to Natural Language Processing and Practice course 2022 Fall :)
 
-## Agenda
+
+
 
 ## 1. ACL Paper
 <details>
@@ -869,13 +869,15 @@ Welcome to Natural Language Processing and Practice course 2022 Fall :)
 | 850 |                 | VALUE: Understanding Dialect Disparity in NLU                                                                                                  |         | ACL2022 |
 | 851 |                 | You might think about slightly revising the title: Identifying Hedges in Peertutoring Interactions                                             |         | ACL2022 |
 | 852 |                 | A Functionalist Account of Vowel System Typology                                                                                               |         | ACL2022 |
+
 </code></pre>
 </details>
 
 
 <br/>
 <br/>
-
+  
+  
 ## 2.NIPS2022 Paper
 <details>
 <summary>展开查看</summary>
